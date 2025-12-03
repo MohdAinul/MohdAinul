@@ -16,11 +16,10 @@
 - **Other:** Git, GitHub, Linux, VS Code  
 
 ---
-
 ## 📈 GitHub Stats  
-![Ainul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdAinul&show_icons=true&theme=tokyonight)
+![Ainul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MohdAinul&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAinul&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohdAinul&layout=compact&theme=tokyonight)
 
 ---
 
