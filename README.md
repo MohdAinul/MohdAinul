@@ -22,6 +22,7 @@
 ## ⚡ LeetCode Info
 
 ### 📊 Current Statistics
+![Streak](https://leetcard.jacoblin.cool/Mohd_Ainul?ext=heatmap&theme=dark&font=Karma)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mohd_Ainul?theme=dark&font=Karma)
 
 ---
