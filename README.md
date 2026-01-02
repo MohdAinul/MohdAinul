@@ -24,8 +24,6 @@
 ### 📊 Current Statistics
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mohd_Ainul?theme=dark&font=Karma)
 
-### 🔥 Streak & Consistency
-![LeetCode Streak](https://leetcard.jacoblin.cool/Mohd_Ainul?theme=dark&ext=heatmap)
 ---
 
 ### 🔗 Coding Profiles
