@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Ainul  
 ### Full Stack Developer | MERN | C++ | DSA | Machine Learning Beginner
 
-🔥 Passionate about building real-world projects  
-👨‍💻 Currently working on: AI Translator (FastAPI + Transformers)  
-🚀 Learning: Advanced React, System Design & Machine Learning  
-💼 Portfolio: *Coming Soon*
-
----
 
 ## 🚀 Tech Stack
 - **Languages:** C++, JavaScript, Python  
@@ -28,13 +22,12 @@
 ## ⚡ LeetCode Info
 
 ### 📊 Current Statistics
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mohd_Ainul?theme=dark&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mohd_Ainul?theme=dark&font=Karma)
 
-### 🔥 Streak & Activity
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Mohd_Ainul?theme=dark&ext=heatmap)
-
+### 🔥 Streak & Consistency
+![LeetCode Streak](https://leetcard.jacoblin.cool/Mohd_Ainul?theme=dark&ext=heatmap)
 ---
 
 ### 🔗 Coding Profiles
 - 🧠 LeetCode: https://leetcode.com/Mohd_Ainul/
-- 💻 GitHub: https://github.com/MohdAinul
+
