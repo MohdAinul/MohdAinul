@@ -24,7 +24,7 @@
 - ⚡ Love building **real-time** applications with Socket.io
 - 🧠 Actively solving DSA problems on **LeetCode**
 - 📝 Occasionally writing tech articles on **Medium**
-- 📍 Based in **Meerut, India**
+
 
 ---
 
